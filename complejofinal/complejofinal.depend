@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1508419792 source:d:\aipoo\2017-2\clases\complejo\complejofinal\complejofinal\complejofinal.cpp
+	"complejofinal.h"
+
+1508418660 d:\aipoo\2017-2\clases\complejo\complejofinal\complejofinal\complejofinal.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<conio.h>
+	<math.h>
+
+1509459610 source:e:\aipoo\2017-2\clases\complejo\complejofinal\complejofinal\complejofinal.cpp
+	"complejofinal.h"
+
+1508422374 e:\aipoo\2017-2\clases\complejo\complejofinal\complejofinal\complejofinal.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<conio.h>
+	<math.h>
+
+1508419846 source:e:\aipoo\2017-2\clases\complejo\complejofinal\complejofinal\main.cpp
+	"complejofinal.h"
+
