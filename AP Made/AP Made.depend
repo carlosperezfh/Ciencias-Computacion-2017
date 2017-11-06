@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1509847360 source:e:\aipoo\2017-2\poligono\ap made\ap made\main.cpp
+	<iostream>
+	"poligono.h"
+	"ArrayPoligono.h"
+
+1509926192 e:\aipoo\2017-2\poligono\ap made\ap made\poligono.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
+1509846274 source:e:\aipoo\2017-2\poligono\ap made\ap made\poligono.cpp
+	"poligono.h"
+
+1509926010 source:e:\aipoo\2017-2\poligono\ap made\ap made\arraypoligono.cpp
+	"poligono.h"
+	"ArrayPoligono.h"
+
+1509926102 e:\aipoo\2017-2\poligono\ap made\ap made\arraypoligono.h
+	"poligono.h"
+
