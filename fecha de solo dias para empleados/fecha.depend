@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1509447942 source:e:\aipoo\2017-2\clase fecha\fecha\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1508941378 e:\aipoo\2017-2\clase fecha\fecha\fecha.h
+
+1508941452 source:e:\aipoo\2017-2\clase fecha\fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1509589834 source:e:\aipoo\2017-2\clase fecha\fecha solo dias\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1509586482 e:\aipoo\2017-2\clase fecha\fecha solo dias\fecha.h
+
+1509586480 source:e:\aipoo\2017-2\clase fecha\fecha solo dias\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1509586480 source:e:\aipoo\2017-2\clase fecha\fecha de solo dias para empleados\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1509586482 e:\aipoo\2017-2\clase fecha\fecha de solo dias para empleados\fecha.h
+
+1509589906 source:e:\aipoo\2017-2\clase fecha\fecha de solo dias para empleados\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
