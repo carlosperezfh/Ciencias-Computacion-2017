@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1508337318 source:d:\aipoo\2017-2\clases\player\player\main.cpp
+	"player.h"
+
+1508336568 d:\aipoo\2017-2\clases\player\player\player.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
+1508316062 source:d:\aipoo\2017-2\clases\player\player\player.cpp
+	"player.h"
+
+1508337318 source:e:\aipoo\2017-2\clases\player\player\main.cpp
+	"player.h"
+
+1508336568 e:\aipoo\2017-2\clases\player\player\player.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
+1508416342 source:e:\aipoo\2017-2\clases\player\player\player.cpp
+	"player.h"
+
+1508416342 source:g:\aipoo\2017-2\clases\player\player\player.cpp
+	"player.h"
+
+1508336568 g:\aipoo\2017-2\clases\player\player\player.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
+1510196580 source:g:\aipoo\2017-2\clases\player_dm\main.cpp
+	"player.h"
+	"equipos.h"
+
+1510197480 g:\aipoo\2017-2\clases\player_dm\player.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<fstream>
+	<math.h>
+
+1510196206 source:g:\aipoo\2017-2\clases\player_dm\player.cpp
+	"player.h"
+
+1510196976 g:\aipoo\2017-2\clases\player_dm\equipos.h
+	"player.h"
+
+1510196964 source:g:\aipoo\2017-2\clases\player_dm\equipos.cpp
+	"equipos.h"
+	"player.h"
+
