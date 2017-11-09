@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1481131598 source:f:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\fixture2.cpp
+	"fixture2.h"
+
+1481127502 f:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\fixture2.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
+1480706358 source:f:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\main.cpp
+	"fixture2.h"
+
+1481421236 source:h:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\fixture2.cpp
+	"fixture2.h"
+
+1481421236 h:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\fixture2.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
+1481421184 source:h:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\main.cpp
+	"fixture2.h"
+
+1481421236 source:g:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\fixture2.cpp
+	"fixture2.h"
+
+1481421236 g:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\fixture2.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
+1481421706 source:g:\aipoo\2016_2\afinal\afwork\fixture_rep\fixture2\main.cpp
+	"fixture2.h"
+
+1481421236 source:g:\aipoo\2017-2\trabajo final\fixture2\fixture2.cpp
+	"fixture2.h"
+
+1481421236 g:\aipoo\2017-2\trabajo final\fixture2\fixture2.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
