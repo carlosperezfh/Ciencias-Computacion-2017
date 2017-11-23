@@ -1,0 +1,335 @@
+# depslib dependency file v1.0
+1509640798 source:e:\aipoo\2017-2\clase empleado\claseempleado\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+
+1509640798 e:\aipoo\2017-2\clase empleado\claseempleado\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1509640670 source:e:\aipoo\2017-2\clase empleado\claseempleado\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1508805042 source:d:\aipoo\2017-2\clase empleado\claseempleado\claseempleado.cpp
+	"claseempleado.h"
+
+1508808382 d:\aipoo\2017-2\clase empleado\claseempleado\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+
+1509589906 source:e:\aipoo\2017-2\clase empleado\claseempleado\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1509640706 e:\aipoo\2017-2\clase empleado\claseempleado\fecha.h
+
+1509640296 source:f:\aipoo\2017-2\clase empleado\claseempleado\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+
+1509640798 f:\aipoo\2017-2\clase empleado\claseempleado\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1509640706 f:\aipoo\2017-2\clase empleado\claseempleado\fecha.h
+
+1509589906 source:f:\aipoo\2017-2\clase empleado\claseempleado\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1509640670 source:f:\aipoo\2017-2\clase empleado\claseempleado\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1509640670 source:f:\aipoo\2017-2\clase empleado\claseempleado\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+
+1509640670 f:\aipoo\2017-2\clase empleado\claseempleado\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1509640670 source:e:\aipoo\2017-2\clase empleado\claseempleado\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+
+1509640670 e:\aipoo\2017-2\clase empleado\claseempleado\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1509640798 source:g:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+
+1509640798 g:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1509640706 g:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\fecha.h
+
+1509640670 source:g:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+
+1509640670 g:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1509589906 source:g:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1509640670 source:g:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1509640798 source:e:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+
+1509640798 e:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1509640706 e:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\fecha.h
+
+1509640670 source:e:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+
+1509640670 e:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1509589906 source:e:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1509640670 source:e:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1511016272 source:j:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+
+1511014960 j:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1510948626 j:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\fecha.h
+
+1511015852 source:j:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+
+1511014950 j:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1511016240 source:j:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1511015942 source:j:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1510948378 source:f:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+
+1510948378 f:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1510948626 f:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\fecha.h
+
+1510883068 source:f:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1510948322 source:f:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1510881302 f:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1510948482 source:f:\aipoo\2017-2\clase empleado\empleado_mem_dinamica\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+
+1511303828 source:j:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1511360236 j:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1510948626 j:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\fecha.h
+
+1511326592 source:j:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+	<vector>
+
+1511318220 j:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1511021436 source:j:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1511360420 source:j:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1511440728 source:g:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1511440730 g:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1510948626 g:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\fecha.h
+
+1511442720 source:g:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+	<vector>
+
+1511370138 g:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1511021436 source:g:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1511441080 source:g:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1511440728 source:e:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\claseempleado.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+
+1511440730 e:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\claseempleado.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	"fecha.h"
+
+1510948626 e:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\fecha.h
+
+1511370138 e:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\empresa.h
+	"fecha.h"
+	"claseempleado.h"
+
+1511442720 source:e:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\empresa.cpp
+	"fecha.h"
+	"claseempleado.h"
+	"empresa.h"
+	<vector>
+
+1511021436 source:e:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1511443418 source:e:\aipoo\2017-2\clase empleado\empleado_mem_dinamina_v2\main.cpp
+	"claseempleado.h"
+	"fecha.h"
+	"empresa.h"
+

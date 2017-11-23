@@ -1,0 +1,63 @@
+#include "claseempleado.h"
+
+Empleado::Empleado(){}
+
+Empleado::Empleado(string nombre_,int salario_,Fecha fec_ing_){
+    nombre=nombre_;
+    salario=salario_;
+    fec_ing=fec_ing_;
+}
+
+void Empleado::setnombre(string n_n){
+    nombre=n_n;
+}
+string Empleado::getnombre(){
+    return nombre;
+}
+void Empleado::setsalario(int n_sal){
+    salario=n_sal;
+}
+int Empleado::get_salario(int n_sal){
+    return salario;
+}
+void Empleado::setfec_ing(Fecha n_fi){
+    //fec_ing=n_fi;
+    fec_ing=n_fi;
+}
+Fecha Empleado::getfec_ing(int n_gfi){
+    //Fecha retornar;
+    //return retornar.imprimirFecha();
+    return fec_ing;
+}
+void Empleado::insertarEmpleado(Empleado e){
+    //for(int i=0;i<e;i++)
+        //nempleados[i]=
+}
+/*Empleado Empresa::listarempleados(){
+    cout<<nempleados[0].getnombre()<<endl;
+    //<<salario<<fec_ing<<endl;
+}
+*/
+void Empleado::listarempleados(){
+    cout<<nombre<<" "<<salario<<" "<<endl;
+
+    fec_ing().imprimirFecha();
+    //usar un for para imprimir
+    //cout<<nempleados[0].getnombre()<<endl;
+    //<<salario<<fec_ing<<endl;
+}
+
+void Empleado::incrementarsueldo(){
+
+        salario=salario*1.10;
+
+}
+
+Empresa::Empresa(){}
+
+Empresa::Empresa(string nombre_,int ruc_){
+    nombre=nombre_;
+    ruc=ruc_;
+}
+
+
