@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1511661374 source:j:\aipoo\2017-2\trabajo final o\cal_virtual\clases.cpp
+	"Clases.h"
+
+1511658374 j:\aipoo\2017-2\trabajo final o\cal_virtual\clases.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	<time.h>
+
+1511659196 source:j:\aipoo\2017-2\trabajo final o\cal_virtual\main.cpp
+	"Clases.h"
+
+1512049307 source:c:\28_11_2017\aipoo\2017-2\trabajo final o\cal_virtual\clases.cpp
+	"Clases.h"
+
+1511986748 c:\28_11_2017\aipoo\2017-2\trabajo final o\cal_virtual\clases.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+	<iterator>
+	<vector>
+	<fstream>
+	<math.h>
+	<time.h>
+
+1512049499 source:c:\28_11_2017\aipoo\2017-2\trabajo final o\cal_virtual\main.cpp
+	"Clases.h"
+
